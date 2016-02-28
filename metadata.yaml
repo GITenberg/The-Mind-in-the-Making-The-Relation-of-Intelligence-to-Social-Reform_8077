@@ -1,0 +1,27 @@
+_repo: The-Mind-in-the-Making-The-Relation-of-Intelligence-to-Social-Reform_8077
+creator:
+  author:
+    agent_name: Robinson, James Harvey
+    alias: Robinson, J. H. (James Harvey)
+    birthdate: 1863
+    deathdate: 1936
+    gutenberg_agent_id: '31757'
+    url: http://www.gutenberg.org/2009/agents/31757
+    wikipedia: http://en.wikipedia.org/wiki/James_Harvey_Robinson
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8077'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social psychology'
+- !lcsh 'Civilization -- History'
+- !lcsh 'Social problems'
+- !lcc 'HM'
+title: 'The Mind in the Making: The Relation of Intelligence to Social Reform'
+url: http://www.gutenberg.org/ebooks/8077
